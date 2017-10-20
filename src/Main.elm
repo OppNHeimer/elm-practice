@@ -38,7 +38,6 @@ view model =
     div [ class "blue" ]
         [ div [ class "header" ]
             [ h1 [] [ text "MemorTree" ]
-            , h4 [] [ text "an app to store moments."]
             ]
         , img [ src "/logo.svg" ] []
         , div [] [ text "Your Elm App is working!" ]
